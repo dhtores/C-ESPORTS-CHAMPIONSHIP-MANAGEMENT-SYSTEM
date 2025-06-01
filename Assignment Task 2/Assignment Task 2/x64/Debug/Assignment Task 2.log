@@ -1,0 +1,17 @@
+﻿  main.cpp
+  Task2.cpp
+  Task3.cpp
+  Task4.cpp
+C:\Users\ASUS\source\repos\Assignment Task 2\Assignment Task 2\Task4.cpp(22,16): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+C:\Users\ASUS\source\repos\Assignment Task 2\Assignment Task 2\Task4.cpp(45,20): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+  Task1.cpp
+C:\Users\ASUS\source\repos\Assignment Task 2\Assignment Task 2\Task1.cpp(101,13): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+C:\Users\ASUS\source\repos\Assignment Task 2\Assignment Task 2\Task1.cpp(120,17): warning C4566: character represented by universal-character-name '\U0001F5D3' cannot be represented in the current code page (1252)
+C:\Users\ASUS\source\repos\Assignment Task 2\Assignment Task 2\Task1.cpp(120,17): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+C:\Users\ASUS\source\repos\Assignment Task 2\Assignment Task 2\Task1.cpp(120,17): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+C:\Users\ASUS\source\repos\Assignment Task 2\Assignment Task 2\Task1.cpp(149,17): warning C4566: character represented by universal-character-name '\U0001F3AE' cannot be represented in the current code page (1252)
+C:\Users\ASUS\source\repos\Assignment Task 2\Assignment Task 2\Task1.cpp(149,52): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+C:\Users\ASUS\source\repos\Assignment Task 2\Assignment Task 2\Task1.cpp(151,72): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+C:\Users\ASUS\source\repos\Assignment Task 2\Assignment Task 2\Task1.cpp(168,13): warning C4566: character represented by universal-character-name '\U0001F4C1' cannot be represented in the current code page (1252)
+  Generating Code...
+  Assignment Task 2.vcxproj -> C:\Users\ASUS\source\repos\Assignment Task 2\x64\Debug\Assignment Task 2.exe

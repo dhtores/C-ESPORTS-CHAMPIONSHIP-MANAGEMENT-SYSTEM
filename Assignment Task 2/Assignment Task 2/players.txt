@@ -1,0 +1,6 @@
+01,Zeta,20
+02,Sasya,15
+03,Zaher,50
+04,Abrar,45
+05,Ibrahim,26
+06,Aisyah,19
